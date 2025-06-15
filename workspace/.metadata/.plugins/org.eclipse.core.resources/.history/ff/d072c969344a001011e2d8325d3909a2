@@ -1,0 +1,12 @@
+package com.krakedev;
+
+public class TestAuto {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Auto auto1 = new Auto();
+		Auto auto2 = new Auto();
+
+	}
+
+}

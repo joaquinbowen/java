@@ -1,0 +1,30 @@
+package com.krakedev;
+
+public class TestProducto {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Producto productoA= new Producto();
+		Producto productoB= new Producto();
+		Producto productoC= new Producto();
+		
+		productoA.nombre = "Paracetamol";
+		productoA.descripcion = "Analgesico";
+		productoA.precio = 0.21;
+		productoA.stockActual = 40;
+		
+		productoB.nombre = "Ibuprofeno";
+		productoB.descripcion = "Antinflamatorio";
+		productoB.precio = 0.31;
+		productoB.stockActual = 60;
+		
+		productoC.nombre = "Codeina";
+		productoC.descripcion = "Antinflamatorio";
+		productoC.precio = 0.87;
+		productoC.stockActual = 20;
+		
+		
+		
+	}
+
+}
