@@ -1,0 +1,14 @@
+package com.krakedev;
+
+public class TestPersona {
+
+	public static void main(String[] args) {
+		// Esto es un comentario
+		Persona p;   //1.-Declaro una variable p de tipo Persona
+		p = new Persona(); //2.-Instanciar un objeto persona, referenciarlo con p.
+		System.out.println("nombre: " +p.nombre);
+		System.out.println("edad: " +p.edad);
+		System.out.println("estatura: " +p.estatura);
+	}
+
+}
