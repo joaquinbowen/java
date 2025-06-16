@@ -1,0 +1,14 @@
+package com.krakedev;
+
+public class TestFecha {
+
+	public static void main(String[] args) {
+		Fecha fecha1= new Fecha();
+		fecha1.setAnio(2008);
+		fecha1.mes=20;
+		
+		
+
+	}
+
+}
