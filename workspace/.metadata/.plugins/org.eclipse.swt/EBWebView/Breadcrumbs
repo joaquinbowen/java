@@ -107,3 +107,87 @@
 2:40:44 Tab4 StartNav26 #typed
 2:40:44 Tab4 FinishNav26
 2:40:44 Tab4 PageLoad
+2:47:16 Microsoft.NewBrowser_Popup
+2:47:16 Microsoft.BrowserList.AddBrowser
+2:47:16 Browser5 Insert active Tab5 at 0
+2:47:16 Tab5 StartNav27 #auto_toplevel
+2:47:16 Tab5 StartNav28 #typed
+2:47:16 Tab5 FinishNav27
+2:47:16 Tab5 PageLoad
+2:47:16 Tab5 FinishNav28
+2:47:16 Tab5 PageLoad
+2:47:18 Tab5 StartNav29 #typed
+2:47:18 Tab5 FinishNav29
+2:47:18 Tab5 PageLoad
+2:47:19 Tab5 StartNav30 #typed
+2:47:19 Tab5 FinishNav30
+2:47:19 Tab5 PageLoad
+2:47:22 Tab5 StartNav31 #typed
+2:47:22 Tab5 FinishNav31
+2:47:22 Tab5 PageLoad
+2:47:23 Tab5 StartNav32 #typed
+2:47:23 Tab5 FinishNav32
+2:47:23 Tab5 PageLoad
+2:47:28 Tab5 StartNav33 #typed
+2:47:28 Tab5 FinishNav33
+2:47:28 Tab5 PageLoad
+2:47:29 Tab5 StartNav34 #typed
+2:47:29 Tab5 FinishNav34
+2:47:29 Tab5 PageLoad
+2:47:30 Tab5 StartNav35 #typed
+2:47:30 Tab5 FinishNav35
+2:47:30 Tab5 PageLoad
+2:47:31 Tab5 StartNav36 #typed
+2:47:31 Tab5 FinishNav36
+2:47:31 Tab5 PageLoad
+2:47:34 Tab5 StartNav37 #typed
+2:47:34 Tab5 FinishNav37
+2:47:34 Tab5 PageLoad
+2:47:38 Tab5 StartNav38 #typed
+2:47:38 Tab5 FinishNav38
+2:47:38 Tab5 PageLoad
+2:47:38 Tab5 StartNav39 #typed
+2:47:38 Tab5 FinishNav39
+2:47:38 Tab5 PageLoad
+2:47:40 Tab5 StartNav40 #typed
+2:47:40 Tab5 FinishNav40
+2:47:40 Tab5 PageLoad
+2:48:33 Tab5 StartNav41 #typed
+2:48:33 Tab5 FinishNav41
+2:48:33 Tab5 PageLoad
+2:48:36 Tab5 StartNav42 #typed
+2:48:36 Tab5 FinishNav42
+2:48:36 Tab5 PageLoad
+2:48:37 Tab5 StartNav43 #typed
+2:48:37 Tab5 FinishNav43
+2:48:37 Tab5 PageLoad
+2:48:41 Tab5 StartNav44 #typed
+2:48:41 Tab5 FinishNav44
+2:48:41 Tab5 PageLoad
+2:48:45 Tab5 StartNav45 #typed
+2:48:45 Tab5 FinishNav45
+2:48:45 Tab5 PageLoad
+2:50:47 Tab5 StartNav46 #typed
+2:50:47 Tab5 FinishNav46
+2:50:47 Tab5 PageLoad
+2:50:52 Tab5 StartNav47 #typed
+2:50:52 Tab5 FinishNav47
+2:50:52 Tab5 PageLoad
+2:50:54 Tab5 StartNav48 #typed
+2:50:54 Tab5 FinishNav48
+2:50:54 Tab5 PageLoad
+2:50:56 Tab5 StartNav49 #typed
+2:50:56 Tab5 FinishNav49
+2:50:56 Tab5 PageLoad
+2:51:49 Tab5 StartNav50 #typed
+2:51:49 Tab5 FinishNav50
+2:51:49 Tab5 PageLoad
+2:51:55 Tab5 StartNav51 #typed
+2:51:55 Tab5 FinishNav51
+2:51:55 Tab5 PageLoad
+2:51:56 Tab5 StartNav52 #typed
+2:51:56 Tab5 FinishNav52
+2:51:56 Tab5 PageLoad
+2:52:02 Tab5 StartNav53 #typed
+2:52:02 Tab5 FinishNav53
+2:52:02 Tab5 PageLoad
