@@ -62,3 +62,18 @@
 0:06:44 Tab2 StartNav13 #typed
 0:06:44 Tab2 FinishNav13
 0:06:44 Tab2 PageLoad
+2:08:51 Microsoft.NewBrowser_Popup
+2:08:51 Microsoft.BrowserList.AddBrowser
+2:08:51 Browser3 Insert active Tab3 at 0
+2:08:51 Tab3 StartNav14 #auto_toplevel
+2:08:51 Tab3 StartNav15 #typed
+2:08:51 Tab3 FinishNav14
+2:08:51 Tab3 PageLoad
+2:08:51 Tab3 FinishNav15
+2:08:51 Tab3 PageLoad
+2:08:51 Tab3 StartNav16 #typed
+2:08:51 Tab3 FinishNav16
+2:08:51 Tab3 PageLoad
+2:08:56 Tab3 StartNav17 #typed
+2:08:56 Tab3 FinishNav17
+2:08:56 Tab3 PageLoad

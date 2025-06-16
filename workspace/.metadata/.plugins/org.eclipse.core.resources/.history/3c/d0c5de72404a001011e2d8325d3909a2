@@ -1,0 +1,18 @@
+package com.krakedev;
+
+public class TestCalculadora {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculadora calcu = new Calculadora();
+		int resultadoSuma;
+		
+		
+		resultadoSuma=calcu.sumar(5, 8);
+		
+		System.out.println("Resultado: "+resultadoSuma);
+		
+		
+	}
+
+}
