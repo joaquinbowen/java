@@ -1,66 +1,36 @@
-2:41:57 Tab60 StartNav340 #typed
-2:41:57 Tab60 FinishNav340
-2:41:57 Tab60 PageLoad
-2:42:00 Tab60 StartNav341 #typed
-2:42:00 Tab60 FinishNav341
-2:42:00 Tab60 PageLoad
-2:42:03 Tab60 StartNav342 #typed
-2:42:03 Tab60 FinishNav342
-2:42:03 Tab60 PageLoad
-2:42:04 Tab60 StartNav343 #typed
-2:42:04 Tab60 FinishNav343
-2:42:04 Tab60 PageLoad
-2:42:07 Tab60 StartNav344 #typed
-2:42:07 Tab60 FinishNav344
-2:42:07 Tab60 PageLoad
-2:42:14 Tab60 StartNav345 #typed
-2:42:14 Tab60 FinishNav345
-2:42:14 Tab60 PageLoad
-2:42:15 Tab60 StartNav346 #typed
-2:42:15 Tab60 FinishNav346
-2:42:15 Tab60 PageLoad
-2:43:28 Microsoft.NewBrowser_Popup
-2:43:28 Microsoft.BrowserList.AddBrowser
-2:43:28 Browser61 Insert active Tab61 at 0
-2:43:28 Tab61 StartNav347 #auto_toplevel
-2:43:28 Tab61 StartNav348 #typed
-2:43:28 Tab61 FinishNav347
-2:43:28 Tab61 PageLoad
-2:43:28 Tab61 FinishNav348
-2:43:28 Tab61 PageLoad
-2:43:29 Tab61 StartNav349 #typed
-2:43:29 Tab61 FinishNav349
-2:43:29 Tab61 PageLoad
-2:43:30 Tab61 StartNav350 #typed
-2:43:30 Tab61 FinishNav350
-2:43:30 Tab61 PageLoad
-2:43:34 Tab61 StartNav351 #typed
-2:43:34 Tab61 FinishNav351
-2:43:34 Tab61 PageLoad
-2:43:40 Tab61 StartNav352 #typed
-2:43:40 Tab61 FinishNav352
-2:43:40 Tab61 PageLoad
-2:45:30 Tab7 StartNav353 #typed
-2:45:30 Tab7 FinishNav353
-2:45:30 Tab7 PageLoad
-2:45:44 Microsoft.NewBrowser_Popup
-2:45:44 Microsoft.BrowserList.AddBrowser
-2:45:44 Browser62 Insert active Tab62 at 0
-2:45:45 Tab62 StartNav354 #auto_toplevel
-2:45:45 Tab62 StartNav355 #typed
-2:45:45 Tab62 FinishNav354
-2:45:45 Tab62 PageLoad
-2:45:45 Tab62 FinishNav355
-2:45:45 Tab62 PageLoad
-2:45:45 Tab62 StartNav356 #typed
-2:45:45 Tab62 FinishNav356
-2:45:45 Tab62 PageLoad
-2:45:59 Tab62 StartNav357 #typed
-2:45:59 Tab62 FinishNav357
-2:45:59 Tab62 PageLoad
-2:46:00 Tab62 StartNav358 #typed
-2:46:00 Tab62 FinishNav358
-2:46:00 Tab62 PageLoad
-2:46:02 Tab62 StartNav359 #typed
-2:46:02 Tab62 FinishNav359
-2:46:02 Tab62 PageLoad
+6:03:12 Tab100 StartNav655 #typed
+6:03:12 Tab100 FinishNav655
+6:03:12 Tab100 PageLoad
+6:03:14 Tab100 StartNav656 #typed
+6:03:14 Tab100 FinishNav656
+6:03:14 Tab100 PageLoad
+6:03:14 Tab100 StartNav657 #typed
+6:03:14 Tab100 FinishNav657
+6:03:14 Tab100 PageLoad
+6:03:18 Tab100 StartNav658 #typed
+6:03:18 Tab100 FinishNav658
+6:03:18 Tab100 PageLoad
+6:03:19 Tab100 StartNav659 #typed
+6:03:19 Tab100 FinishNav659
+6:03:19 Tab100 PageLoad
+6:03:24 Tab100 StartNav660 #typed
+6:03:24 Tab100 FinishNav660
+6:03:24 Tab100 PageLoad
+6:03:26 Tab100 StartNav661 #typed
+6:03:26 Tab100 FinishNav661
+6:03:26 Tab100 PageLoad
+6:03:31 Tab100 StartNav662 #typed
+6:03:31 Tab100 FinishNav662
+6:03:31 Tab100 PageLoad
+6:03:32 Tab100 StartNav663 #typed
+6:03:32 Tab100 FinishNav663
+6:03:32 Tab100 PageLoad
+6:03:33 Tab100 StartNav664 #typed
+6:03:33 Tab100 FinishNav664
+6:03:33 Tab100 PageLoad
+6:04:15 Tab80 StartNav665 #typed
+6:04:15 Tab80 FinishNav665
+6:04:15 Tab80 PageLoad
+6:04:19 Tab80 StartNav666 #typed
+6:04:19 Tab80 FinishNav666
+6:04:19 Tab80 PageLoad

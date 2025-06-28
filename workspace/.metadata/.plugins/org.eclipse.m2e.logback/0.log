@@ -2815,3 +2815,327 @@
 2025-06-28 10:31:39,149 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
 2025-06-28 10:31:39,150 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2025-06-28 10:31:39,150 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 11:56:02,707 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 11:56:02,707 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 11:56:02,710 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 11:56:02,710 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 11:56:17,497 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 11:56:17,497 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 11:56:17,499 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 11:56:17,499 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 11:56:28,180 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 11:56:28,180 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 11:56:28,181 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 11:56:28,181 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 11:58:35,669 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 11:58:35,669 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 11:58:35,671 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 11:58:35,671 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:00:46,269 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:00:46,269 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:00:46,270 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:00:46,270 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:00:50,022 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:00:50,023 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:00:50,023 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:00:50,023 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:01:13,613 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:01:13,613 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:01:13,615 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:01:13,615 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:01:50,873 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:01:50,874 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:01:50,876 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:01:50,876 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:02:10,641 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:02:10,642 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:02:10,643 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:02:10,643 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:02:17,168 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:02:17,168 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:02:17,169 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:02:17,169 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:02:28,884 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:02:28,885 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:02:28,886 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:02:28,887 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:06:49,830 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:06:49,831 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:06:49,832 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:06:49,832 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:06:59,769 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:06:59,769 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:06:59,770 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:06:59,770 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:07:20,979 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:07:20,979 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:07:20,981 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:07:20,981 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:07:53,870 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:07:53,870 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:07:53,872 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:07:53,872 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:08:13,477 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:08:13,477 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:08:13,479 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:08:13,479 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:08:15,470 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:08:15,470 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:08:15,471 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:08:15,471 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:08:18,425 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:08:18,426 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:08:18,427 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:08:18,427 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:08:36,247 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:08:36,247 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:08:36,249 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:08:36,249 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:09:14,453 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:09:14,454 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:09:14,456 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:09:14,456 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:10:52,088 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:10:52,088 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:10:52,089 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:10:52,089 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:11:15,142 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:11:15,142 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:11:15,144 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:11:15,144 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:12:10,483 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:12:10,483 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:12:10,484 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:12:10,484 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:12:36,427 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:12:36,427 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:12:36,429 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:12:36,429 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:29:59,344 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:29:59,345 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:29:59,346 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:29:59,346 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:32:18,813 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:32:18,813 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:32:18,814 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:32:18,814 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:32:54,688 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:32:54,688 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:32:54,690 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:32:54,690 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:34:21,437 [Worker-48: Launching TestConsultaPersonas] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:34:21,438 [Worker-48: Launching TestConsultaPersonas] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:34:21,439 [Worker-48: Launching TestConsultaPersonas] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:34:21,439 [Worker-48: Launching TestConsultaPersonas] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:34:34,685 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:34:34,685 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:34:34,686 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:34:34,686 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:35:01,104 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:35:01,104 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:35:01,105 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:35:01,106 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:38:08,344 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:38:08,345 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:38:08,346 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:38:08,346 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:38:37,948 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:38:37,948 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:38:37,950 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:38:37,950 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:40:28,974 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:40:28,974 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:40:28,975 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:40:28,975 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:40:40,794 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:40:40,794 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:40:40,796 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:40:40,796 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:41:09,162 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:41:09,162 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:41:09,164 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:41:09,164 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:41:59,498 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:41:59,498 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:41:59,500 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:41:59,500 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:42:01,846 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:42:01,846 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:42:01,848 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:42:01,848 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 12:42:37,069 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:42:37,070 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 12:42:37,071 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 12:42:37,071 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:08:30,877 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:08:30,877 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:08:30,879 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:08:30,879 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:08:47,282 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:08:47,282 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:08:47,283 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:08:47,283 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:10:11,256 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:10:11,257 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:10:11,258 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:10:11,258 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:10:33,284 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:10:33,285 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:10:33,286 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:10:33,286 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:11:16,480 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:11:16,480 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:11:16,482 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:11:16,482 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:11:35,292 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:11:35,292 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:11:35,293 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:11:35,293 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:12:32,038 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:12:32,038 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:12:32,039 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:12:32,039 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:12:44,525 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:12:44,525 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:12:44,526 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:12:44,526 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:13:34,613 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:13:34,614 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:13:34,615 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:13:34,615 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:14:16,538 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:14:16,538 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:14:16,540 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:14:16,540 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:16:25,748 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:16:25,748 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:16:25,749 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:16:25,749 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:16:35,221 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:16:35,221 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:16:35,222 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:16:35,223 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:18:10,409 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:18:10,409 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:18:10,411 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:18:10,411 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:18:16,947 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:18:16,947 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:18:16,948 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:18:16,949 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:18:51,848 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:18:51,848 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:18:51,849 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:18:51,849 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:19:28,133 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:19:28,134 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:19:28,135 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:19:28,135 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:19:35,789 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:19:35,789 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:19:35,790 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:19:35,790 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:20:04,724 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:20:04,724 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:20:04,725 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:20:04,726 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:20:10,716 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:20:10,716 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:20:10,717 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:20:10,717 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:20:39,810 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:20:39,810 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:20:39,812 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:20:39,812 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:21:14,349 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:21:14,349 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:21:14,357 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:21:14,357 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:21:27,640 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:21:27,640 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:21:27,641 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:21:27,641 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:22:11,724 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:22:11,724 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:22:11,725 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:22:11,725 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:22:28,054 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:22:28,054 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:22:28,055 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:22:28,055 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:22:39,211 [Worker-58: Launching TestBuscarPorcedula] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:22:39,211 [Worker-58: Launching TestBuscarPorcedula] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:22:39,212 [Worker-58: Launching TestBuscarPorcedula] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:22:39,212 [Worker-58: Launching TestBuscarPorcedula] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:23:09,283 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:23:09,283 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:23:09,285 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:23:09,286 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:24:17,345 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:24:17,345 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:24:17,346 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:24:17,346 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:24:21,479 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:24:21,479 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:24:21,480 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:24:21,480 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:24:47,406 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:24:47,406 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:24:47,407 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:24:47,407 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:37:08,734 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:37:08,734 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:37:08,736 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:37:08,736 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:38:33,838 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:38:33,838 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:38:33,839 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:38:33,839 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:39:03,499 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:39:03,499 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:39:03,501 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:39:03,501 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:42:44,211 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:42:44,211 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:42:44,212 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:42:44,212 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:43:17,231 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:43:17,232 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:43:17,233 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:43:17,233 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:44:58,292 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:44:58,292 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:44:58,294 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:44:58,294 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:45:08,630 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:45:08,631 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:45:08,634 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:45:08,634 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:46:34,346 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:46:34,346 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:46:34,347 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:46:34,347 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:46:38,466 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:46:38,466 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:46:38,467 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:46:38,467 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:47:29,784 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:47:29,784 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:47:29,785 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:47:29,785 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:47:48,375 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:47:48,376 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:47:48,377 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:47:48,377 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:47:54,640 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:47:54,640 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:47:54,641 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:47:54,642 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:48:13,534 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:48:13,535 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:48:13,536 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:48:13,536 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
+2025-06-28 13:48:59,837 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:48:59,837 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\main\resources
+2025-06-28 13:48:59,838 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-06-28 13:48:59,838 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\jb\Desktop\dev\programacion_JoaquinB\modulo2\java\workspace\conexionbdd\src\test\resources
