@@ -9,6 +9,13 @@ public class Cliente {
 
 	}
 
+	public Cliente(String cedula, String nombre, int numeroHijos) {
+		super();
+		this.cedula = cedula;
+		this.nombre = nombre;
+		this.numeroHijos = numeroHijos;
+	}
+
 	@Override
 	public String toString() {
 		return "Cliente [cedula=" + cedula + ", nombre=" + nombre + "]";
