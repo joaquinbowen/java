@@ -158,17 +158,13 @@ public class ClientesBDD {
 			ps = con.prepareStatement("select cedula,nombre,numeroHijos from clientes where numeroHijos>=?");
 			ps.setInt(1, numeroHijosConsulta);
 			rs = ps.executeQuery();
-
 			while (rs.next()) {
 				String cedula = rs.getString("cedula");
 				String nombre = rs.getString("nombre");
 				int numeroHijos = rs.getInt("numeroHijos");
 				cliente = new Cliente(cedula, nombre, numeroHijos);
-
 				clientes.add(cliente);
-
 			}
-
 		} catch (KrakedevException e) {
 			e.printStackTrace();
 			throw e;
